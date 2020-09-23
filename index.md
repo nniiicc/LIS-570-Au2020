@@ -3,39 +3,23 @@ layout: page
 title: Research, Assessment, & Design  
 ---
 
-Classes teach you all about advanced topics within CS, from operating systems
-to machine learning, but there’s one critical subject that’s rarely covered,
-and is instead left to students to figure out on their own: proficiency with
-their tools. We’ll teach you how to master the command-line, use a powerful
-text editor, use fancy features of version control systems, and much more!
+LIS 570 is an introduction to the design of research projects, and the use of research methods to conduct evaluation in library and information science.
 
-Students spend hundreds of hours using these tools over the course of their
-education (and thousands over their career), so it makes sense to make the
-experience as fluid and frictionless as possible. Mastering these tools not
-only enables you to spend less time on figuring out how to bend your tools to
-your will, but it also lets you solve problems that would previously seem
-impossibly complex.
-
-Read about the [motivation behind this class](/about/).
-
-
-- [!](https://img.shields.io/badge/<LearningGoal>-<1>-red.svg)Something
-- Soemthing [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-blue.svg)](https://shields.io/)
-- Soemthing [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-yellow.svg)](https://shields.io/)
-
-
-
-{% comment %}
-# Registration
-
-Sign up for the IAP 2020 class by filling out this [registration form](https://forms.gle/TD1KnwCSV52qexVt9).
-{% endcomment %}
+It's helpful to think of this course a *survey* of research and evaluation in LIS. Just as a *survey course* in literature or history is meant to give a general overview, so too is LIS 570 with respect to methods and evaluation. 
 
 # Schedule
 
 {% comment %}
-**Lecture**: 35-225, 2pm--3pm<br>
-**Office hours**: 32-G9 lounge, 3pm--4pm (every day, right after lecture)
+**Lecture**: Video lectures will be posted each Friday at 11am PST.
+**Class Discussion**:
+- Section A - Mondays at 8:30 AM
+- Section B - Tuesdays at 10:30 AM
+**Office hours**: Office hours with TA's are by appointment.
+- Section A - Friday at 9 AM
+- Section B - Friday at 10 AM
+
+If you need to schedule a meeting with Dr. Weber use this [link](https://calendly.com/nmweber/15min).
+
 {% endcomment %}
 
 <ul>
@@ -54,56 +38,23 @@ Sign up for the IAP 2020 class by filling out this [registration form](https://f
 {% endfor %}
 </ul>
 
-Video recordings of the lectures are available [on
-YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J).
+Video recordings of the lectures are available on pages throughout this course site and [on YouTube](https://www.youtube.com/playlist?list=PLbfZ2tKmriI7wsTY0fusl6OCrJsdhXSsr).
 
 # About the class
 
-**Staff**: This class is co-taught by [Anish](https://www.anishathalye.com/), [Jon](https://thesquareplanet.com/), and [Jose](http://josejg.com/).
+**Staff**: This class is taught by [Nic](nicweber.info), and two TA's - [Claire]() and [Wan-Chen]().
 
-**Questions**: Email us at [missing-semester@mit.edu](mailto:missing-semester@mit.edu).
+**Questions**: See the FAQ page above
 
-# Beyond MIT
-
-We've also shared this class beyond MIT in the hopes that others may
-benefit from these resources. You can find posts and discussion on
-
- - [Hacker News](https://news.ycombinator.com/item?id=22226380)
- - [Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)
- - [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/)
- - [/r/programming](https://www.reddit.com/r/programming/comments/eyagcd/the_missing_semester_of_your_cs_education_mit/)
- - [Twitter](https://twitter.com/jonhoo/status/1224383452591509507)
- - [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
-
-# Translations
-
-- [Chinese (Simplified)](https://missing-semester-cn.github.io/)
-- [Chinese (Traditional)](https://missing-semester-zh-hant.github.io/)
-- [Korean](https://missing-semester-kr.github.io/)
-- [Serbian](https://netboxify.com/missing-semester/)
-- [Spanish](https://missing-semester-esp.github.io/)
-- [Turkish](https://missing-semester-tr.github.io/)
-- [Vietnamese](https://missing-semester-vn.github.io/)
-
-Note: these are external links to community translations. We have not vetted
-them.
-
-Have you created a translation of the course notes from this class? Submit a
-[pull request](https://github.com/missing-semester/missing-semester/pulls) so
-we can add it to the list!
 
 ## Acknowledgements
 
-We thank Elaine Mello, Jim Cain, and [MIT Open
-Learning](https://openlearning.mit.edu/) for making it possible for us to
-record lecture videos; Anthony Zolnik and [MIT
-AeroAstro](https://aeroastro.mit.edu/) for A/V equipment; and Brandi Adams and
-[MIT EECS](https://www.eecs.mit.edu/) for supporting this class.
+Thanks to Ricardo Gomez for sharing materials related to the class, and the
 
 ---
 
 <div class="small center">
-<p><a href="https://github.com/missing-semester/missing-semester">Source code</a>.</p>
+<p><a href="https://github.com/nniiicc/LIS-570-Au2020">Source code</a>.</p>
 <p>Licensed under CC BY-NC-SA.</p>
-<p>See <a href="/license/">here</a> for contribution &amp; translation guidelines.</p>
+<p>See <a href="/license/">here</a> for info on license</p>
 </div>
