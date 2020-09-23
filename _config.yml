@@ -1,6 +1,6 @@
 # Setup
 title: 'LIS-570-Research-Assesment-And-Design'
-url: https://nniiicc.github.io/LIS-570-Au2020/
+baseurl: https://nniiicc.github.io/LIS-570-Au2020/
 
 # Settings
 markdown: kramdown
@@ -8,7 +8,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-permalink: LIS-570-Au2020/:title/
+permalink: /:title/
 future: true
 # safe: true # breaks local rendering if enabled
 timezone: America/New_York
