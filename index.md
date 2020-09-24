@@ -9,14 +9,20 @@ It's helpful to think of this course a *survey* of research and evaluation in LI
 
 # Schedule
 
-{% comment %}
 **Lecture**: Video lectures will be posted each Friday at 11am PST.
+
 **Class Discussion**:
-- Section A - Mondays at 8:30 AM
-- Section B - Tuesdays at 10:30 AM
+Each week your TA's and I will host a 1 hour course discussion. The discussion will be an opportunity for you to offer thoughts, pose questions, or debate with us about that week's topic.
+
+Discussion times (Pacific Standard Time):
+
+- Mondays, 8:30 AM - [Zoom Link]( https://washington.zoom.us/j/94982906196)
+- Tuesdays, 10:30 AM  [Zoom Link](https://washington.zoom.us/j/94422099280)
+
 **Office hours**: Office hours with TA's are by appointment.
-- Section A - Friday at 9 AM
-- Section B - Friday at 10 AM
+
+- Section A, Mondays at 9:30 AM - [Zoom Link]() 
+- Section B, Fridays at 4 PM  - [Zoom Link](https://washington.zoom.us/j/94989269902?pwd=THJveEpJNmp6b1NmRDlwMmZVOW11Zz09) 
 
 If you need to schedule a meeting with Dr. Weber use this [link](https://calendly.com/nmweber/15min).
 
