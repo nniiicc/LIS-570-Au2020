@@ -5,20 +5,20 @@ title: Assignments
 
 There are three graded assignments that you will be responsible for completing over the next 10 weeks. Follow the links below to read an in-depth description of each assignment.
 
-## Assignment Descriptions 
+## Assignment Descriptions
 
-1. [Research / Evaluation Problem Statement](f)
+1.[Research / Evaluation Problem Statement](f)
 
 - Draft: October 15 (10%)
 - Final: December 4 (20%)
 
-2. [Literature Review](f)
+2.[Literature Review](f)
 
 - Draft: October 30 (10%)
 - Peer Review: November 6  (5%)
 - Final: December 4 (20%)
 
-3. [Data Collection and Analysis Protocol](f)
+3.[Data Collection and Analysis Protocol](f)
 
 - Draft: November 13 (10%)
 - Peer Review: November 20 (5%)
