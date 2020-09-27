@@ -26,8 +26,6 @@ Discussion times (Pacific Standard Time):
 
 If you need to schedule a meeting with Dr. Weber use this [link](https://calendly.com/nmweber/15min).
 
-{% endcomment %}
-
 <ul>
 {% assign lectures = site['2020'] | sort: 'date' %}
 {% for lecture in lectures %}
