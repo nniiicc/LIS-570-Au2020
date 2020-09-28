@@ -15,7 +15,7 @@ Please call your TA's Claire (they/them) and Wan-Chen (she/her).
 
 # If you are the assistant professor, who is the actual professor of this class?
 
-Good question! [Academic titles](https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_States) are confusing and weird. Assistant professor simply means that I don't have tenure (yet). You'd be surprised how many students are waiting until the 10th week to find out who their **actual** professor is ... It me. I promise.
+Good question! [Academic titles](https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_States) are confusing and weird. Assistant professor simply means that I don't have tenure (yet). You'd be surprised how many students are waiting until the 10th week to find out who their **actual** professor is ... It is me. I promise.
 
 # If we have a question, who should we contact (and how)?
 
@@ -23,7 +23,7 @@ You should feel free to reach out for clarification or help whenever you need it
 
 - Canvas forum: Ask any questions about content or assignments that might be helpful for the entire class to see a response.
 - Email to TA: Use your TA for any communication that requires specific personal consideration  
-- Email to Nic:  Same as above - but you'd like me SPECIFICALLY to provide feedback. 
+- Email to Nic:  Same as above - but you'd like me SPECIFICALLY to provide feedback.
 
 Please give us 24 hours to respond to any email or forum post. If you don't get a response then please feel free to send a follow up (I promise - we're not ignoring you! Your email might have just fallen through the cracks)
 
@@ -39,3 +39,6 @@ What this means for you:
 - This site and all of the content (videos, readings, etc) will remain accessible - whether you are enrolled at the University of Washington or not.
 - Is optimized for reading and viewing across different operating systems and devices - meaning you can watch videos on your phone while you cook dinner, or read chapters on your tablet on your couch.
 - Allows me and your TA's to more easily edit, update, and automate parts of the site publication process. We reinvest our time in developing better course content for you.
+
+# Why do we use APA style citations?
+Most social sciences use some form of APA as their default citation style. If you are coming from a humanities background this will likely be quite different than Chicago Style, but it will be worth learning early in your career. If you would like to brush up on APA style there are a number of helpful articles on the web - and I recommend the tutorial by the [Online Writing Lab (OWL) at Purdue University](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)
