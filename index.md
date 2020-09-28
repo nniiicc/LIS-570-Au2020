@@ -33,7 +33,7 @@ If you need to schedule a meeting with Dr. Weber use this [link](https://calendl
         <li>
         <strong>{{ lecture.date | date: '%-m/%d' }}</strong>:
         {% if lecture.ready %}
-            <a href="{{ lecture.url }}">{{ lecture.title }}</a>
+            <a href="/LIS-570-Au2020/{{ lecture.url }}">{{ lecture.title }}</a>
         {% else %}
             {{ lecture.title }} {% if lecture.noclass %}[no class]{% endif %}
         {% endif %}
