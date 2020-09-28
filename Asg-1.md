@@ -3,8 +3,6 @@ layout: page
 title: Assignment 1: Research Evaluation Problem Statement
 ---
 
-# Research / Evaluation Problem Statement
-
 The first step in most research and evaluation projects is to clearly define a problem that will be investigated. After this is complete a researcher needs to identify the audience for the project (e.g. who will benefit from the research) and pose a set of specific research questions that will be answered by collecting and analyzing data.
 
 This first assignment will help you identify and clearly describe a research problem that you will investigate throughout the quarter. You may choose to work in groups or individually, but you must follow each of the steps (and deadlines) below in order to get full credit for this assignment.
