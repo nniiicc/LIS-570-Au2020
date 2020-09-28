@@ -3,8 +3,9 @@ layout: page
 title: Assignment 2: Literature Review
 ---
 
-# Literature Review
+# Assignment 2
 
+## Literature Review
 Before we begin to conduct research about a topic we need to know, at minimum, two things:
 
 1. What have others written, reported, or discovered about this topic?

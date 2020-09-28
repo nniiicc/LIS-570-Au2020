@@ -2,12 +2,14 @@
 layout: page
 title: Assignment 1: Research Evaluation Problem Statement
 ---
+# Assignment 1
 
+## Problem Statement
 The first step in most research and evaluation projects is to clearly define a problem that will be investigated. After this is complete a researcher needs to identify the audience for the project (e.g. who will benefit from the research) and pose a set of specific research questions that will be answered by collecting and analyzing data.
 
 This first assignment will help you identify and clearly describe a research problem that you will investigate throughout the quarter. You may choose to work in groups or individually, but you must follow each of the steps (and deadlines) below in order to get full credit for this assignment.
 
-## Step 1: Research Problem Draft
+## Step 1: Problem Statement Draft
 Write a problem statement that clearly describes the topic you (or your group) are interested in, argues why this topic is relevant or important (to a particular audience), and what questions you will ask about this research topic.
 
 ### Exercise to get started (optional)
@@ -26,7 +28,7 @@ In a shared document, start to formulate some assumptions that you have and ques
 ### Draft (turn in)
 By October 15th, turn in a 1 page (550 words) draft of your research problem statement. This draft should include an explanation of your research topic, why it is relevant, who it is relevant to (audience), and no more than two original research questions that you might ask about this topic.
 
-# Step 2: Research Problem Final
+# Step 2: Problem Statement Final
 Once you have completed a draft of [Assignment 2]() (the literature review) you will likely have a deeper understanding of the topic you researching, and you will be informed by the findings of previous research about this topic.
 
 To complete Assignment 1 you should revise and improve your problem statement draft with this new knowledge. This new (final) draft should be 1.5 pages (800 words) - it should include a description of the topic, a description of the audience, a set of research questions, and a justification for why those research questions are appropriate and important to answer.
