@@ -7,18 +7,18 @@ There are three graded assignments that you will be responsible for completing o
 
 ## Assignment Descriptions
 
-1.[Research / Evaluation Problem Statement](f)
+1.[Research / Evaluation Problem Statement](https://nniiicc.github.io/LIS-570-Au2020/Asg-1/)
 
 - Draft: October 15 (10%)
 - Final: December 4 (20%)
 
-2.[Literature Review](f)
+2.[Literature Review]()
 
 - Draft: October 30 (10%)
 - Peer Review: November 6  (5%)
 - Final: December 4 (20%)
 
-3.[Data Collection and Analysis Protocol](f)
+3.[Data Collection and Analysis Protocol](https://nniiicc.github.io/LIS-570-Au2020/Asg-2/)
 
 - Draft: November 13 (10%)
 - Peer Review: November 20 (5%)
