@@ -26,6 +26,7 @@ Discussion times (Pacific Standard Time):
 
 If you need to schedule a meeting with Dr. Weber use this [link](https://calendly.com/nmweber/15min).
 
+**Weekly Topics**
 <ul>
 {% assign lectures = site['2020'] | sort: 'date' %}
 {% for lecture in lectures %}
@@ -53,7 +54,7 @@ Video recordings of the lectures are available on pages throughout this course s
 
 ## Acknowledgements
 
-Thanks to Ricardo Gomez for sharing materials related to the class, and the
+Thanks and appreciation to Ricardo Gomez for sharing materials related to his teaching of this class, [@tttkay](https://twitter.com/tttkay) for the 'Black Excellence in LIS' reading list which informed many of the readings used here.  
 
 ---
 
