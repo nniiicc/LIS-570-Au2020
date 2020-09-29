@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lecture
 title: Assignment 1: Research Evaluation Problem Statement
 ---
 # Assignment 1
