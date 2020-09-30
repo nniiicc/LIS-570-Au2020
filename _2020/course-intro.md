@@ -12,16 +12,14 @@ LIS 570 is an introduction to the design of research projects, and the use of re
 
 Throughout the quarter there are a number of important concepts we will pay attention to in that previous sentence - design, resesearch projects, methods, etc. In some ways that sentence contains all of the things we will elaborate on, and investigate over the course of the next 10 weeks.
 
-For our first week of class lets pay attention to the word "introduction"
-
-It's helpful to think of LIS 570 as a **survey** of research and evaluation in LIS. Just as a literature or history survey course is meant to give a sweeping overview, so too is LIS 570 with respect to methods, assessment, and design.
-
 What the course will give you is the following:
 - An understanding of conceptual foundations that underpin all social science research
 - A working knowledge of how to design and implement research projects in LIS
 - The ability to write research questions, and understand what their answers should contain
 - The ability to critically evaluate research literature, and determine (given your own preferences and keen eye for evaluation) whether or not the results seem valid
 - Apply technique in analyzing and interpreting existing data
+
+It's helpful to think of LIS 570 as a **survey** of research and evaluation in LIS. Just as a literature or history survey course is meant to give a sweeping overview, so too is LIS 570 with respect to methods, assessment, and design.
 
 What this course will not do:
 - Make you into an expert or even competent practitioner with any one method
