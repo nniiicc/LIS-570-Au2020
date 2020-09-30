@@ -5,7 +5,7 @@ date: 2020-09-30
 ready: true
 video:
   aspect: 56.25
-  id: ou4WX2f6yHE
+  id: a6c5S4qg82M 
 ---
 
 LIS 570 is an introduction to the design of research projects, and the use of research methods to conduct evaluation in library and information science.
