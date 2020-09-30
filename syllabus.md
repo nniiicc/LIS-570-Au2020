@@ -42,6 +42,9 @@ This course uses the [iSchool Standard Grading Scheme](https://canvas.uw.edu/cou
 
 Final grades will be on a 4.0 scale in which a minimum of 2.7 (about 70%) is required to pass (per iSchool grading criteria). The conversion scale is the standard conversion scale for iSchool graduate courses.
 
+## Late Work
+I have a no questions asked policy for assignment extensions. I do not need to know why you require an extension, I only require that you communicate with me 48 hours in advance to request an extension. If you do not contact me in advance there will be 15% points taken off for each day that an assignment is late.
+
 ## Academic Conduct
 
 Please review the [iSchool Academic Policies](https://docs.google.com/document/d/1Ev3S-JeQIBauLFIEJupXuJJ2z6Ei2Ps7ofDWj0IACyE/preview) which cover:
@@ -72,10 +75,9 @@ In this course you may be required to access a large number of databases through
 Religious Accommodations
 Washington state law requires that UW develop a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The UW’s policy, including more information about how to request an accommodation, is available at Religious Accommodations Policy (https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/). Accommodations must be requested within the first two weeks of this course using the Religious Accommodations Request form (https://registrar.washington.edu/students/religious-accommodations-request/).
 
-## Required Readings
 
 ## Related Courses
-For a complementary, quantitative emphasis, see iSchool faculty Jacob Wobbrock's Coursera course [Designing, Running and Analyzing Experiments]().
+For a complementary, quantitative emphasis, see iSchool faculty Jacob Wobbrock's Coursera course [Designing, Running and Analyzing Experiments](https://www.coursera.org/learn/designexperiments).
 
 You can also take more advanced courses in research methods at the iSchool:
 
