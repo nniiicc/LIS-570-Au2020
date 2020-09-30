@@ -8,8 +8,17 @@ video:
   id: #for youtube videos if there is only one
 ---
 
-**Introduction:** *stuff*
 
-%% First video should go here
+**Week 4 - Research Design**: The ability to meaningfully select research topics, pose research questions, sample populations, and securely manage data are part of the research design process. Throughout Week 4 we will work through the different elements of a research project's design.
 
-# Topic
+
+## Readings
+Forthcoming
+
+**LIS Research Spotlight**
+
+**Suggested**
+
+
+## Exercise
+Forthcoming

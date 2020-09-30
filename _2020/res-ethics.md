@@ -8,8 +8,16 @@ video:
   id: #for youtube videos if there is only one
 ---
 
-**Introduction:** *stuff*
+**Week 3 - Research Ethics**: Conducting research with human subjects creates an imbalance of power. In many ways, ethics help us manage and make sense of the appropriate, fair, and just use of that power to gain new knowledge. In this week we will
 
-%% First video should go here
 
-# Topic
+## Readings
+Forthcoming
+
+**LIS Research Spotlight**
+
+**Suggested**
+
+
+## Exercise
+Forthcoming

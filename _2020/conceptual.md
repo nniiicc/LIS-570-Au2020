@@ -8,8 +8,17 @@ video:
   id: #for youtube videos if there is only one
 ---
 
-**Introduction:** *stuff*
 
-%% First video should go here
+**Week 2 - Conceptual Foundations**: At the heart of all research and evaluation tasks are assumptions about "how we know what we know" - So to begin the class we will discuss the idea of Epistemology and Ontology. We will relate these concepts to research paradigms and theories and (hopefully) develop an appreciation for why these concepts inform the selection of a method.
 
-# Topic
+
+## Readings
+Forthcoming
+
+**LIS Research Spotlight**
+
+**Suggested**
+
+
+## Exercise
+Forthcoming
