@@ -35,12 +35,27 @@ The payoff will be worth it - many of your courses will be easier, your professi
 In the rest of this chapter - rather than cheerlead about *why* research methods are worth your time and energy, I will instead focus on explaining *what* concepts underlie the course material and how we can productively get started with the quarter.
 
 ## Organization of Course
-Our quarter will be organized around a weekly topic. Each topic will have a set of video lectures and a short written explanation of key concepts. There will be required and suggested readings, as well as "optional" exercises that you can complete at your own leisure.
+Our quarter will be organized around a weekly topic. Each topic will have a set of video lectures and a short written explanation of key concepts. There will be required and suggested readings, as well as an LIS research spotlight publication. This publication will be a very recent (last three years) paper that demonstrates how the methods and concepts we are discussing are put into practice. At the conclusion of most week's topic there will be an "optional" exercises that you can complete at your own leisure. (You do not have to submit this exercise to your instructors).
 
-In addition to this content your TA and I will hold a weekly optional discussion section. During the discussion section we will ask questions, talk about readings, and clarify anything about lecture. These discussions sections will be recorded and published.
+In addition to this content your TA and I will hold a weekly **optional** discussion section. During the discussion section we will ask questions, talk about readings, and clarify anything about lecture. These discussions sections will take place on Zoom. They will be recorded and published in case you cannot attend. For a schedule of discussion sections see the class [homepage](https://nniiicc.github.io/LIS-570-Au2020/).
 
-## Conceptual Underpinnings
-At the heart of all research and evaluation tasks are assumptions about "how we know what we know"
+## Topical Outline of LIS 570
+
+**Week 2 - Conceptual Foundations**: At the heart of all research and evaluation tasks are assumptions about "how we know what we know" - So to begin the class we will discuss the idea of Epistemology and Ontology. We will relate these concepts to research paradigms and theories and (hopefully) develop an appreciation for why these concepts inform the selection of a method.
+
+**Week 3 - Research Ethics**: Conducting research with human subjects creates an imbalance of power. In many ways, ethics help us manage and make sense of the appropriate, fair, and just use of that power to gain new knowledge. In this week we will
+
+**Week 4 - Research Design**: The ability to meaningfully select research topics, pose research questions, sample populations, and securely manage data are part of the research design process. Throughout Week 4 we will work through the different elements of a research project's design.
+
+**Week 5 + 6 - Qualitative Data Collection and Analysis**: One of the major paradigms in LIS research is the collection and analysis of data using qualitative methods. In this two week class session we will discuss data collection methods like interviews, surveys, and content analysis. We will also discuss analytic techniques such as interview coding, memo writing, and ethnographic reporting.  
+
+**Week 7 + 8 - Quantitative Data Collection and Analysis**: Quantitative methods are used less in LIS but play an important role in the design of program evaluation and assessment In Weeks 7 and 8 we will briefly discuss how to collect and obtain quantitative data, and how to use descriptive and inferential statistics to pursue a hypothesis.
+
+**Week 9 - Design-based Methods**: An emergent field of research and evaluation makes use of design-based methods in LIS. These methods are often highly interactive and require a close association with research participants. In this week we will discuss methods such as 'value sensitive design' and 'diverse voices' to understand how to best apply design methods to LIS settings.
+
+**Week 10 - Research Reporting**: In the final substantive week of the class we will discuss the elements of a research paper - how to publish and where to publish; how to navigate peer review; and the emergent practices of open science in LIS and beyond.
+
+**Week 11 - What's next**: To wrap up the course your TA's and I will offer some suggestions for how to pursue additional research training, get involved with research at the iSchool, and topics that we see as important to the future of LIS practitioners.
 
 
 ## Readings
