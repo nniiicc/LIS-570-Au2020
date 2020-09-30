@@ -5,7 +5,7 @@ title: Research, Assessment, & Design
 
 LIS 570 is an introduction to the design of research projects, and the use of research methods to conduct evaluation in library and information science.
 
-It's helpful to think of this course a *survey* of research and evaluation in LIS. Just as a *survey course* in literature or history is meant to give a general overview, so too is LIS 570 with respect to methods and evaluation. 
+It's helpful to think of this course a *survey* of research and evaluation in LIS. Just as a *survey course* in literature or history is meant to give a general overview, so too is LIS 570 with respect to methods and evaluation.
 
 # Schedule
 
@@ -21,8 +21,8 @@ Discussion times (Pacific Standard Time):
 
 **Office hours**: Office hours with TA's are by appointment.
 
-- Section A, Mondays at 9:30 AM - [Zoom Link]() 
-- Section B, Fridays at 4 PM  - [Zoom Link](https://washington.zoom.us/j/94989269902?pwd=THJveEpJNmp6b1NmRDlwMmZVOW11Zz09) 
+- Section A, Mondays at 9:30 AM - [Zoom Link]()
+- Section B, Fridays at 4 PM  - [Zoom Link](https://washington.zoom.us/j/94989269902?pwd=THJveEpJNmp6b1NmRDlwMmZVOW11Zz09)
 
 If you need to schedule a meeting with Dr. Weber use this [link](https://calendly.com/nmweber/15min).
 
@@ -47,7 +47,7 @@ Video recordings of the lectures are available on pages throughout this course s
 
 # About the class
 
-**Staff**: This class is taught by [Nic](nicweber.info), and two TA's - [Claire]() and [Wan-Chen]().
+**Staff**: This class is taught by [Nic](http://nicweber.info), and two TA's - [Claire]() and [Wan-Chen](https://wcleeblog.wordpress.com/).
 
 **Questions**: See the FAQ page above
 
