@@ -5,12 +5,12 @@ date: 2020-09-30
 ready: true
 video:
   aspect: 56.25
-  id:
+  id: ou4WX2f6yHE
 ---
 
 LIS 570 is an introduction to the design of research projects, and the use of research methods to conduct evaluation in library and information science.
 
-Throughout the quarter there are a number of important concepts we will pay attention to in that previous sentence - design, resesearch projects, methods, etc. In some ways that sentence contains all of the things we will elaborate on, and investigate over the course of the next 10 weeks.
+Throughout the quarter there are a number of important concepts we will pay attention to in that previous sentence - design, research projects, methods, etc. In some ways that sentence contains all of the things we will elaborate on, and investigate over the course of the next 10 weeks.
 
 What the course will give you is the following:
 - An understanding of conceptual foundations that underpin all social science research
