@@ -5,7 +5,7 @@ date: 2020-09-30
 ready: true
 video:
   aspect: 56.25
-  id: a6c5S4qg82M 
+  id: a6c5S4qg82M
 ---
 
 LIS 570 is an introduction to the design of research projects, and the use of research methods to conduct evaluation in library and information science.
@@ -61,16 +61,16 @@ There are no required readings for our first week of class. You should, instead,
 
 **LIS Research Spotlight**
 
-- Hebert, H. S., & Lambert, F. P. (2019). Providing Voter Registration and Election Information in Libraries: A Survey of Public Libraries in Tennessee. Public Library Quarterly, 0(0), 1–14. https://doi.org/10.1080/01616846.2019.1688079
+- Hebert, H. S., & Lambert, F. P. (2019). Providing Voter Registration and Election Information in Libraries: A Survey of Public Libraries in Tennessee. Public Library Quarterly, 0(0), 1–14. [PDF](https://www.tandfonline.com/doi/pdf/10.1080/01616846.2019.1688079?casa_token=MFxb8Ap7vfsAAAAA:OVRyOuRTpQqIZYF7ZnfAJI82wPfry_78m0VGvH449mzLAVcM3uJnxOlM-hLluqguaEtgxxc7z0Wr)
 
 
 **Suggested**
 
-- Saunders, L. (2019). Core and More: Examining Foundational and Specialized Content in Library and Information Science. Journal of Education for Library and Information Science, 60(1), 3–34. https://doi.org/10.3138/jelis.60.1.2018-0034
+- Saunders, L. (2019). Core and More: Examining Foundational and Specialized Content in Library and Information Science. Journal of Education for Library and Information Science, 60(1), 3–34. [PDF](http://publish.illinois.edu/whylibraries/files/2019/10/saunders-2019-jelis.60.1.2018-0034.pdf)
 
-- Williams, R. D., & Saunders, L. (2020). What the field needs: Core knowledge, skills, and abilities for public librarianship. The Library Quarterly, 90(3), 283–297.
+- Williams, R. D., & Saunders, L. (2020). What the field needs: Core knowledge, skills, and abilities for public librarianship. The Library Quarterly, 90(3), 283–297. [PDF](https://www.journals.uchicago.edu/doi/pdf/10.1086/708958?casa_token=rck62gpPkr0AAAAA:9Zu4Rca3t3QRexrkPRRT7IYKOhTSGb9DN0bfPRzQa2FbCTOp0YlKEJkXT8wiJFA_IbWQPTV_jbc)
 
-- Chu, H. (2015). Research methods in library and information science: A content analysis. Library & information science research, 37(1), 36-41.
+- Chu, H. (2015). Research methods in library and information science: A content analysis. Library & information science research, 37(1), 36-41. [Full text HTML](https://www.sciencedirect.com/science/article/pii/S0740818815000109?casa_token=RwAj9Jxbm04AAAAA:qNt1bo-_86TK7G4LDkOv1BCW_2ck3S2u_o-0IPPMra94kL2sOaqQoAT3MPEwlWeuP71DlyZhbg)
 
 ## Exercise
 There is no exercise for your first week of class.
