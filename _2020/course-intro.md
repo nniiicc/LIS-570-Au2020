@@ -61,7 +61,7 @@ There are no required readings for our first week of class. You should, instead,
 
 **LIS Research Spotlight**
 
-- Hebert, H. S., & Lambert, F. P. (2019). Providing Voter Registration and Election Information in Libraries: A Survey of Public Libraries in Tennessee. Public Library Quarterly, 0(0), 1–14. [PDF](https://www.tandfonline.com/doi/pdf/10.1080/01616846.2019.1688079?casa_token=MFxb8Ap7vfsAAAAA:OVRyOuRTpQqIZYF7ZnfAJI82wPfry_78m0VGvH449mzLAVcM3uJnxOlM-hLluqguaEtgxxc7z0Wr)
+- Hebert, H. S., & Lambert, F. P. (2019). Providing Voter Registration and Election Information in Libraries: A Survey of Public Libraries in Tennessee. Public Library Quarterly, 0(0), 1–14. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Week1-LIS-Spot.pdf)
 
 
 **Suggested**
