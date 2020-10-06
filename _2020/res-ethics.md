@@ -11,6 +11,11 @@ video:
 **Week 3 - Research Ethics**: Conducting research with human subjects creates an imbalance of power. In many ways, ethics help us manage and make sense of the appropriate, fair, and just use of that power to gain new knowledge. In this week we will investigate forms of normative ethics as well as their practical implementation in institutional review boards.
 
 
+## Guest Lecture
+Mallory Shaw is the Research Development Coordinator at the UW iSchool and an expert on all things related to institutional compliance with research ethics boards. In this short lecture she is going to introduce you to the IRB at UW and the background information you'll need to complete an IRB application.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJp01c3_-UM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Readings
 The required reading this week is from a short introductory textbook on philosophy. If you aren't particularly interested in the subject of ethics - you will be better served by reading the `Summary` section of this article and then diving into one of the suggested readings instead. But, to be clear on why we are reading this - Virtue, Consequential and Deontological ethics are probably the most common ways that a researcher will argued for "ethical" choices. Being able to clearly and easily pick these out will help immensely in your future work.
 
@@ -33,3 +38,9 @@ van Otterlo, M. (2018). Gatekeeping Algorithms with Human Ethical Bias: The ethi
 
 ## Exercise
 Forthcoming
+
+## Discussion Section Recordings
+Note - you must be logged into your UW account to access these recordings.
+
+- Section A [Video]()
+- Section B [Video]()

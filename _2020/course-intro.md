@@ -74,3 +74,9 @@ There are no required readings for our first week of class. You should, instead,
 
 ## Exercise
 There is no exercise for your first week of class.
+
+## Discussion Section Recordings
+Note - you must be logged into your UW account to access these recordings.
+
+- Section A [Video](https://drive.google.com/file/d/1OOp_urdtxfpLNwnW4QsJrWfWh_KdQ_Xa/view?usp=sharing)
+- Section B [Video](https://drive.google.com/file/d/1fLjwYjEs7fRH_u1WLs3nv6hldKnv8NR4/view?usp=sharing)
