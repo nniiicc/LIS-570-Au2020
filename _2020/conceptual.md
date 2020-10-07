@@ -8,6 +8,7 @@ video:
   id: G7jmri-vJD8
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G7jmri-vJD8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The slides for this week's lecture can be found [here](https://github.com/nniiicc/LIS-570-Au2020/raw/master/slides/LIS570-Au2020-Week2.pdf)
 
