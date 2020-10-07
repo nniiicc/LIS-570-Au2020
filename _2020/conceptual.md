@@ -5,7 +5,7 @@ date: 2020-10-05
 ready: true
 video:
   aspect: 56.25
-  id: #for youtube videos if there is only one
+  id: G7jmri-vJD8
 ---
 
 
@@ -118,7 +118,7 @@ The two most dominant and general paradigms in LIS (positivism and constructivis
 
 - Beliefs about reality and truth shape our research - in the choices we make about topics, questions that are important, and the ways we go about finding answers to our questions.
 - There are not right or wrong research paradigms - each has a strength and a weakness that practitioners acknowledge. There are, however, valid and consistent ways of practicing within a paradigm. The rest of our course is going to be largely focused on articulating questions, and using methods to answer questions that fit within a paradigm of positivism or constructivism.
-- If you don't recognize your own beliefs in one of the paradigms we've briefly covered here don't worry - it is rare that someone perfectly identifies with a research paradigm (just like it is rare that someone fully agrees with a political party). Over time these paradigms will start to become clearer and you will feel yourself more naturally accepting claims of or reading authors in one paradigm or the other. 
+- If you don't recognize your own beliefs in one of the paradigms we've briefly covered here don't worry - it is rare that someone perfectly identifies with a research paradigm (just like it is rare that someone fully agrees with a political party). Over time these paradigms will start to become clearer and you will feel yourself more naturally accepting claims of or reading authors in one paradigm or the other.
 
 
 [^1]: The concept of scientific paradigms was coined by the historian Thomas Kuhn, who defined it as “the set of common beliefs and agreements shared between scientists about how problems should be understood and addressed” (1962)
