@@ -9,7 +9,9 @@ video:
 ---
 
 
-**Week 2 - Conceptual Foundations**: At the heart of all research and evaluation tasks are assumptions about "how we know what we know" - So to begin the class we will discuss the idea of Epistemology and Ontology. We will relate these concepts to research paradigms and theories and (hopefully) develop an appreciation for why these concepts inform the selection of a research method in LIS.
+The slides for this week's lecture can be found [here](https://github.com/nniiicc/LIS-570-Au2020/raw/master/slides/LIS570-Au2020-Week2.pdf)
+
+**Week 2 - Conceptual Foundations**: At the heart of all research and evaluation tasks are assumptions about "how we know what we know" - So to begin the class we will discuss the idea of Epistemology and Ontology. We will relate these concepts to research paradigms and theories and (hopefully) develop an appreciation for why these concepts inform the selection of a research method in LIS. The [slides] for this week's lecture can be found [here](https://github.com/nniiicc/LIS-570-Au2020/raw/master/slides/LIS570-Au2020-Week2.pdf)
 
 ## Theory and Methods
 Students in Library and Information Science classes, especially research methods classes, often complain that the content is too theoretical. I have taught at and attended four LIS schools and I have heard variations of the 'theory vs praxis' debate play out at each and every one. Often when I hear someone complain that a concept, a lecture, or an assignment is "too theoretical" what I think they mean instead is "too abstract" -  the content lacks concrete examples and meaning in a person's life.
