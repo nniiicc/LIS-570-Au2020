@@ -32,7 +32,7 @@ van Otterlo, M. (2018). Gatekeeping Algorithms with Human Ethical Bias: The ethi
 **Suggested**
 - Williams, S (2016) All Labor is Local. Keynote at DLF Forum [Video](https://youtu.be/pjo7D9vm9M8?t=1610) or [Transcript](https://medium.com/@Wribrarian/all-labor-is-local-344963e33051)
 
-- Scmhinckle. (2020, April 2). Why Disadvantaged Populations are at Greater Health Risk from COVID-19 – and How Libraries are Helping, Despite Closing [Webpage](https://ischool.umd.edu/news/why-disadvantaged-populations-are-greater-health-risk-covid-19-%E2%80%93-and-how-libraries-are-helping)
+- Scmhinckle. (2020, April 2). Why Disadvantaged Populations are at Greater Health Risk from COVID-19 – and How Libraries are Helping, Despite Closing [Webpage](https://ischool.umd.edu/news/why-disadvantaged-populations-are-greater-health-risk-covid-19-and-how-libraries-are-helping)
 
 - Sula, C. A. (2016). Research ethics in an age of big data. Bulletin of the Association for Information Science and Technology, 42(2), 17-21. [PDF](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/bul2.2016.1720420207)
 
