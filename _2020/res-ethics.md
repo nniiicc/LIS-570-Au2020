@@ -36,6 +36,10 @@ van Otterlo, M. (2018). Gatekeeping Algorithms with Human Ethical Bias: The ethi
 
 - Sula, C. A. (2016). Research ethics in an age of big data. Bulletin of the Association for Information Science and Technology, 42(2), 17-21. [PDF](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/bul2.2016.1720420207)
 
+Indian Health Service. Indian Health Service Institutional Review Boards (IRB) Available at: [Link](https://www.ihs.gov/dper/research/hsrp/instreviewboards/)
+
+Morton, Deborah J., Proudfit, Joely, Calac, Daniel, Portillo, Martina, Lofton-Fitzsimmons, Geneva, Molina, Theda, Majel-McCauley, Romelle. (2013). Creating research capacity through a tribally based institutional review board. The American Journal of Public Health, 103(12), 2160 [HTML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828979/)
+
 ## Exercise
 Forthcoming
 
