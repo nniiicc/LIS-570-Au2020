@@ -23,7 +23,7 @@ Burns, S (2017) A Discourse on Modern Philosophy - Different Kinds of Ethics. Av
 
 **LIS Research Spotlight**
 
-- Subramaniam, M. (2016). Designing the library of the future for and with teens: Librarians as the “connector” in connected learning. The Journal of Research on Libraries and Young Adults, 7(2), 1-18. [PDF](http://www.terpconnect.umd.edu/~mmsubram/YALSALectureAbstract.pdf) (Think about the source of data in this article)
+- Subramaniam, M. (2016). Designing the library of the future for and with teens: Librarians as the “connector” in connected learning. The Journal of Research on Libraries and Young Adults, 7(2), 1-18. [PDF](http://www.yalsa.ala.org/jrlya/wp-content/uploads/2011/02/Subramaniam_Designing-the-Library_Final.pdf) (Think about the source of data in this article)
 
 OR
 
