@@ -9,10 +9,14 @@ video:
 ---
 
 
+
 **Week 4 - Research Design**: The ability to meaningfully select research topics, pose research questions, sample populations, and securely manage data are part of the research design process. Throughout Week 4 we will work through the different elements of a research project's design.
 
 
 ## Readings
+
+- https://conjointly.com/kb/introduction-to-evaluation/
+
  - Jaeger, P. T., Bertot, J. C., & Franklin, R. E. (2010). Diversity, inclusion, and underrepresented populations in LIS research. The Library Quarterly, 80(2), 175-181. [PDF](https://www.journals.uchicago.edu/doi/pdf/10.1086/651053)
 
 **LIS Research Spotlight**

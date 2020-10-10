@@ -12,11 +12,12 @@ video:
 
 
 ## Readings
-Forthcoming
 
-**LIS Research Spotlight**
+Examples of reporting:
 
-**Suggested**
+- Archives policy https://meridian.allenpress.com/american-archivist/article-abstract/83/1/77/441164/Privacy-and-Access-in-the-Massachusetts-Society?redirectedFrom=fulltext
+
+
 
 
 ## Exercise
