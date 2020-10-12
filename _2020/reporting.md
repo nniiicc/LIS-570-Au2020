@@ -12,10 +12,9 @@ video:
 
 
 ## Readings
+Below are a number of examples that could all fit into our LIS spotlight series. But, I think each of these are examples of how to report on professional activities in peer reviewed publications using productive and helpful narrative styles. Choose just one to read for your readings this week (you likely have a few other things going on right now :) )   
 
-Examples of reporting:
-
-- Archives policy https://meridian.allenpress.com/american-archivist/article-abstract/83/1/77/441164/Privacy-and-Access-in-the-Massachusetts-Society?redirectedFrom=fulltext
+- Holden, J., & Roeschley, A. (2020). Privacy and Access in the Massachusetts Society for the Prevention of Cruelty to Children Records. The American Archivist, 83(1), 77-90. https://meridian.allenpress.com/american-archivist/article-abstract/83/1/77/441164/Privacy-and-Access-in-the-Massachusetts-Society?redirectedFrom=fulltext
 
 
 

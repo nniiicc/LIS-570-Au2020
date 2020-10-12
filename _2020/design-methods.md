@@ -14,6 +14,7 @@ video:
 Forthcoming
 
 **LIS Research Spotlight**
+Clarke, R. I. “Toward a Design Epistemology for Librarianship.” The Library Quarterly: Information, Community, Policy 88 (1): 41-59.
 
 **Suggested**
 

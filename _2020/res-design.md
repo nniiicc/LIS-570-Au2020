@@ -14,15 +14,17 @@ video:
 
 
 ## Readings
+Read the introduction, and then choose two types of research designs to read about (for clarity - each type is a method): USC LibGuide on Designing Research Projects - [HTML](https://libguides.usc.edu/writingguide/researchdesigns)
 
-- https://conjointly.com/kb/introduction-to-evaluation/
+The design of a research project doesn't need to be fully about creating brand new knowledge - it may also be for the purposes of conducting an evaluation of an ongoing program. Read a short introduction to Evaluation and its different design considerations [at this link (HTML)](https://conjointly.com/kb/introduction-to-evaluation/)
 
- - Jaeger, P. T., Bertot, J. C., & Franklin, R. E. (2010). Diversity, inclusion, and underrepresented populations in LIS research. The Library Quarterly, 80(2), 175-181. [PDF](https://www.journals.uchicago.edu/doi/pdf/10.1086/651053)
 
 **LIS Research Spotlight**
 - Strover, S., Whitacre, B., Rhinesmith, C., & Schrubbe, A. (2020). The digital inclusion role of rural libraries: social inequalities through space and place. Media, Culture & Society, 42(2), 242-259. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Week4-LIS-Spot.pdf)
 
 **Suggested**
+
+ - Jaeger, P. T., Bertot, J. C., & Franklin, R. E. (2010). Diversity, inclusion, and underrepresented populations in LIS research. The Library Quarterly, 80(2), 175-181. [PDF](https://www.journals.uchicago.edu/doi/pdf/10.1086/651053)
 
 - Carmi, E., & Yates, S. J. (2020). What do digital inclusion and data literacy mean today?. Internet Policy Review, 9(2). [HTML](https://policyreview.info/digital-inclusion)
 
