@@ -10,6 +10,23 @@ video:
 
 **Week 3 - Research Ethics**: Conducting research with human subjects creates an imbalance of power. In many ways, ethics help us manage and make sense of the appropriate, fair, and just use of that power to gain new knowledge. In this week we will investigate forms of normative ethics as well as their practical implementation in institutional review boards.
 
+## Ethics - Background
+Ethics can be practically framed as “...the general nature of morals and of the specific moral judgments or choices to be made by a person” (Burns, 2012). This definition situates ethics as a matter of individual choice, but of course the choices we make as individuals have broad impacts on the communities we are part of, serve, and wish to see flourish. Therefore, thinking about how our ethics (values, morals, judgements) will impact our research design is an important first step. In fact, describing carefully the design of a research project and applying for institutional clearance to collect data is a requirement of any human-subject study.
+
+There are, broadly, three types of ethical frameworks that can help guide your work in LIS research and evaluation: Virtue, consequential, and non-consequential ethics.   
+
+- Virtue ethics is concerned with actions or choices that are of a high moral character. For a researcher following a virtue ethics framework the focus is on self - our own actions and decisions should aspire to be just, verdant, and correct.
+
+- Consequential (or Teleological) ethics is concerned with achieving the best or highest quality outcomes. Acting ethically for a consequentialist is about achieving the best outcome based on a system, program, or research goal. So if for example you were running a summer reading program for teens it would be consequentially ethical to evaluate the reading program by asking how many teens were served, how many could have been served, and what prevented more teens from not being served?
+
+- Non-Consequential (or Deontological) ethics is concerned with what action best adheres to established rules. Acting ethically then for a non-consequentialist is about how to follow one's duties, and best respect the rights of others. The "non" consequential part of this ethical framework comes from the fact that evaluation shouldn't be based on outcomes - it should instead be based on "moral worth" or how well we uphold the expectations of pre-established rules.
+
+At face value these ethical frameworks can seem - as we discussed in Week 1 - overly abstract and not terribly helpful.
+
+But when we begin to design research - that is, asking questions, sampling populations, collecting data, etc.  - we will inevitably have to justify why this research is worth doing, and what benefits will result from doing it. We may need to justify the research to a funder who will give us money to do the research in our library or archive, or we may just need to justify this to our research participants so they will fill out a survey. An ethical framework can help us make those justifications clearly. For example, we could justify doing research about COVID-19 transmissions in public libraries because it provides valuable data about the spread of infectious disease (consequentialism) or we can do that research because public librarians have a right to know the risk of continuing to serve the public during a health crises (non-consequential). Both studies, and both sets of answers would be valuable contributions - but they have slightly different justifications for WHY they are important, and WHO will benefit from the results.
+
+To relate this to Week 2's lecture: If ontology is about WHAT makes up our research, and epistemology and methods are about HOW we know what we know, then ethics are really about WHY we are doing research, and who will benefit.
+
 
 ## Guest Lecture
 Mallory Shaw is the Research Development Coordinator at the UW iSchool and an expert on all things related to institutional compliance with research ethics boards. In this short lecture she is going to introduce you to the IRB at UW and the background information you'll need to complete an IRB application.
@@ -17,7 +34,7 @@ Mallory Shaw is the Research Development Coordinator at the UW iSchool and an ex
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wJp01c3_-UM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Readings
-The required reading this week is from a short introductory textbook on philosophy. If you aren't particularly interested in the subject of ethics - you will be better served by reading the `Summary` section of this article and then diving into one of the suggested readings instead. But, to be clear on why we are reading this - Virtue, Consequential and Deontological ethics are probably the most common ways that a researcher will argued for "ethical" choices. Being able to clearly and easily pick these out will help immensely in your future work.
+The required reading this week is from a short introductory textbook on philosophy. If you aren't particularly interested in the subject of ethics - you will be better served by reading the `Summary` section of this article and then diving into one of the suggested readings instead. But, to be clear on why we are reading this - Virtue, Consequential and Deontological ethics are probably the most common ways that a researcher will argue for "ethical" choices. Being able to clearly and easily pick these out will help immensely in your future work.
 
 Burns, S (2017) A Discourse on Modern Philosophy - Different Kinds of Ethics. Available at [HTML](http://www3.sympatico.ca/saburns/pg0405.htm)
 
