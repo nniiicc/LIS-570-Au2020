@@ -44,7 +44,7 @@ Burns, S (2017) A Discourse on Modern Philosophy - Different Kinds of Ethics. Av
 
 OR
 
-van Otterlo, M. (2018). Gatekeeping Algorithms with Human Ethical Bias: The ethics of algorithms in archives, libraries and society. arXiv preprint arXiv:1801.01705. [PDF](https://arxiv.org/ftp/arxiv/papers/1801/1801.01705.pdf)
+- van Otterlo, M. (2018). Gatekeeping Algorithms with Human Ethical Bias: The ethics of algorithms in archives, libraries and society. arXiv preprint arXiv:1801.01705. [PDF](https://arxiv.org/ftp/arxiv/papers/1801/1801.01705.pdf)
 
 **Suggested**
 - Williams, S (2016) All Labor is Local. Keynote at DLF Forum [Video](https://youtu.be/pjo7D9vm9M8?t=1610) or [Transcript](https://medium.com/@Wribrarian/all-labor-is-local-344963e33051)
@@ -53,9 +53,9 @@ van Otterlo, M. (2018). Gatekeeping Algorithms with Human Ethical Bias: The ethi
 
 - Sula, C. A. (2016). Research ethics in an age of big data. Bulletin of the Association for Information Science and Technology, 42(2), 17-21. [PDF](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/bul2.2016.1720420207)
 
-Indian Health Service. Indian Health Service Institutional Review Boards (IRB) Available at: [Link](https://www.ihs.gov/dper/research/hsrp/instreviewboards/)
+- Indian Health Service. Indian Health Service Institutional Review Boards (IRB) Available at: [Link](https://www.ihs.gov/dper/research/hsrp/instreviewboards/)
 
-Morton, Deborah J., Proudfit, Joely, Calac, Daniel, Portillo, Martina, Lofton-Fitzsimmons, Geneva, Molina, Theda, Majel-McCauley, Romelle. (2013). Creating research capacity through a tribally based institutional review board. The American Journal of Public Health, 103(12), 2160 [HTML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828979/)
+- Morton, Deborah J., Proudfit, Joely, Calac, Daniel, Portillo, Martina, Lofton-Fitzsimmons, Geneva, Molina, Theda, Majel-McCauley, Romelle. (2013). Creating research capacity through a tribally based institutional review board. The American Journal of Public Health, 103(12), 2160 [HTML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828979/)
 
 ## Exercise
 This week's exercise asks you to consider some cases of research ethics. For each scenario, imagine that you sit on an institutional review board. In reading the scenario, and thinking about its ethical concerns, here are some questions you might try to answer:
@@ -69,9 +69,9 @@ This week's exercise asks you to consider some cases of research ethics. For eac
 
 2. Priya is interested in whether listening to music while working out makes people exercise harder. She plans to ask college students to come to the gym and run on a treadmill for half an hour either while listening to music or in silence. The dependent measure will be the number of miles run in that time period.
 
-3. Charlotte wants to research the effect of labeling students (gifted vs. strug-gling) on their achievement in second grade. She proposes that students in an elementary school’s second grade be divided into reading groups in which ability levels (as determined by previous test scores) are evenly mixed. One group will be told they are gifted readers, another group will be told that they are struggling readers, and a third group will be told nothing at all. Charlotte theorizes that by the end of the second-grade year, the students in the “gifted” level group will outperform those in the “struggling” group on the same reading test.
+3. Charlotte wants to research the effect of labeling students (gifted vs. struggling) on their achievement in second grade. She proposes that students in an elementary school’s second grade be divided into reading groups in which ability levels (as determined by previous test scores) are evenly mixed. One group will be told they are gifted readers, another group will be told that they are struggling readers, and a third group will be told nothing at all. Charlotte theorizes that by the end of the second-grade year, the students in the “gifted” level group will outperform those in the “struggling” group on the same reading test.
 
-*Note:* This week's exercise comes from a book by Dr. Allyson J. Weseley on practical research ethics. 
+*Note:* This week's exercise comes from a book by Dr. Allyson J. Weseley on practical research ethics.
 
 ## Discussion Section Recordings
 Note - you must be logged into your UW account to access these recordings.
