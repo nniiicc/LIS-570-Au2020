@@ -39,7 +39,7 @@ Grading for a draft is based on completion of the following requirements (e.g. y
 
 - **Topic (3 pts):** Did the student explain their research topic and its scope? Did they provide an overview of what they about the topic or background information?  
 - **Relevance and Audience (4 pts):** Are the stakeholders identified and did the student justify why this topic is relevant?
-- **Research question(s) (3 pts):** Are there two research questions explicitly stated in the draft? Are the research questions open-ended and answerable by gathering and analyzing data. 
+- **Research question(s) (3 pts):** Are there two research questions explicitly stated in the draft? Are the research questions open-ended and answerable by gathering and analyzing data.
 
 Please edit and keep the word count of your draft within + / - 10% of 550 words.
 
@@ -51,3 +51,18 @@ To complete Assignment 1 you should revise and improve your problem statement dr
 You must cite literature which supports your ideas in this final draft. Be sure to cite all consulted works using APA formatting.
 
 You can turn the final draft of Assignment in anytime before December 04, 2020.
+
+### Final Draft Grading Rubric
+In 1100 words...
+
+- **Topic (5 pts):** Introduce the motivation for selecting this topic. Explain your research topic and clearly define its scope and key concept(s). Incorporate what you know from the Literature Review and provide an overview about the topic.
+
+- **Relevance and Audience (6 pts):** Identify stakeholders (audience) and how they influence / are influenced by the topic respectively. Justify why this topic is relevant to the audience.
+
+- **Research question(s) (5 pts):** List no more than two research questions that you will ask about this topic. The research question(s) should be open-ended and answerable by gathering and analyzing data. Define key concepts in the research question(s). Justify why the research question(s) are appropriate and important to answer.
+
+Grading is based on both completion and quality of work.
+
+- **Overall polished presentation (4 pt):** To receive full points, an assignment would be clearly written, well-organized, and balanced. Assignment would be free of grammatical errors and typos, and use the APA citation format.
+
+You can turn the final draft of Assignment to Canvas anytime before or on December 04, 2020. 
