@@ -58,7 +58,20 @@ Indian Health Service. Indian Health Service Institutional Review Boards (IRB) A
 Morton, Deborah J., Proudfit, Joely, Calac, Daniel, Portillo, Martina, Lofton-Fitzsimmons, Geneva, Molina, Theda, Majel-McCauley, Romelle. (2013). Creating research capacity through a tribally based institutional review board. The American Journal of Public Health, 103(12), 2160 [HTML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828979/)
 
 ## Exercise
-Forthcoming
+This week's exercise asks you to consider some cases of research ethics. For each scenario, imagine that you sit on an institutional review board. In reading the scenario, and thinking about its ethical concerns, here are some questions you might try to answer:
+
+- What additional information might you want to know about the study in order to decide whether or not it should be approved?
+- What are the benefits that might result from this research?
+- What are the potential harms?
+- If you were on an IRB reviewing this proposal, what would your recommendation be?
+
+1. Tyrone wants to study the impact of watching sexually suggestive/explicit television on people’s attitudes toward sex. He plans to test ninth graders because he believes they are still young enough to be highly impressionable. He will solicit volunteers to come after school. Half will be as-signed to watch one hour of sexually explicit clips from a cable TV show while the other half will view an hour of clips from the same show that deal with nonsexual topics. After watching the TV shows, all participants will fill out a questionnaire about the attitudes toward sex.
+
+2. Priya is interested in whether listening to music while working out makes people exercise harder. She plans to ask college students to come to the gym and run on a treadmill for half an hour either while listening to music or in silence. The dependent measure will be the number of miles run in that time period.
+
+3. Charlotte wants to research the effect of labeling students (gifted vs. strug-gling) on their achievement in second grade. She proposes that students in an elementary school’s second grade be divided into reading groups in which ability levels (as determined by previous test scores) are evenly mixed. One group will be told they are gifted readers, another group will be told that they are struggling readers, and a third group will be told nothing at all. Charlotte theorizes that by the end of the second-grade year, the students in the “gifted” level group will outperform those in the “struggling” group on the same reading test.
+
+*Note:* This week's exercise comes from a book by Dr. Allyson J. Weseley on practical research ethics. 
 
 ## Discussion Section Recordings
 Note - you must be logged into your UW account to access these recordings.
