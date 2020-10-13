@@ -3,9 +3,9 @@ layout: page
 title: "Research Ethics"
 date: 2020-10-12
 ready: true
-video: lAHNr_cJ5jM
+video: 
   aspect: 56.25
-  id: lAHNr_cJ5jM 
+  id: lAHNr_cJ5jM
 ---
 
 **Week 3 - Research Ethics**: Conducting research with human subjects creates an imbalance of power. In many ways, ethics help us manage and make sense of the appropriate, fair, and just use of that power to gain new knowledge. In this week we will investigate forms of normative ethics as well as their practical implementation in institutional review boards.
