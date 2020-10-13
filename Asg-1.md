@@ -37,7 +37,7 @@ For the first draft you do not need to cite any literature. If you do, the citat
 ### Draft Grading Rubric
 Grading for a draft is based on completion of the following requirements (e.g. you will get full points if all three components are presented in the draft):  
 
-- **Topic (3 pts):** Did the student explain their research topic and its scope? Did they provide an overview of what they about the topic or background information?  
+- **Topic (3 pts):** Did the student explain their research topic and its scope? Did they provide an overview of the topic or background information?  
 - **Relevance and Audience (4 pts):** Are the stakeholders identified and did the student justify why this topic is relevant?
 - **Research question(s) (3 pts):** Are there two research questions explicitly stated in the draft? Are the research questions open-ended and answerable by gathering and analyzing data.
 
