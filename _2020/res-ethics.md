@@ -10,7 +10,7 @@ video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lAHNr_cJ5jM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The slides for this week’s lecture can be found [here](f)
+The slides for this week’s lecture can be found [here](https://github.com/nniiicc/LIS-570-Au2020/blob/master/slides/Ethics.pdf)
 
 **Week 3 - Research Ethics**: Conducting research with human subjects creates an imbalance of power. In many ways, ethics help us manage and make sense of the appropriate, fair, and just use of that power to gain new knowledge. In this week we will investigate forms of normative ethics as well as their practical implementation in institutional review boards.
 
@@ -80,5 +80,5 @@ This week's exercise asks you to consider some cases of research ethics. For eac
 ## Discussion Section Recordings
 Note - you must be logged into your UW account to access these recordings.
 
-- Section A [Video]()
-- Section B [Video]()
+- Section A [Video](https://drive.google.com/file/d/1OIoOS0XANgSqq7x5d9W8XYKfquCmImNd/view?usp=sharing)
+- Section B [Video](https://drive.google.com/file/d/1o2Ug1CCrU3A81Fqw7QqOe9eQ4XQ-eO1s/view?usp=sharing)
