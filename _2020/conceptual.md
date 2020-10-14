@@ -23,7 +23,7 @@ My goal this first week of LIS 570 is to try to convince you there is nothing so
 
 ## Research Paradigms
 
-A **paradigm** is as a set of basic beliefs, or a "worldview" that is shared by a group of people [^1]. Paradigms of research are therefore made up of people whom agree about what constitutes an important problem, how it should be investigated, and what theories or beliefs about their worldview matter to that investigation. Think of a paradigm as a way to describe people who think the same way about research. The same way a political party is a group of people who (roughly) think the same way about social, economic, and environmental issues.
+A **paradigm** is a set of basic beliefs, or a "worldview" that is shared by a group of people [^1]. Paradigms of research are therefore made up of people whom agree about what constitutes an important problem, how it should be investigated, and what theories or beliefs about their worldview matter to that investigation. Think of a paradigm as a way to describe people who think the same way about research. The same way a political party is a group of people who (roughly) think the same way about social, economic, and environmental issues.
 
 It is rare that someone will come right out and tell you what research paradigm they align themselves with, but by reading their articles and asking questions you can likely guess a person's worldview. With some practice this will become second nature to you - just like identifying someone based on their clothing (however superficial that may be) tells you something about their values, beliefs, etc.
 
