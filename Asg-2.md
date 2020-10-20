@@ -5,6 +5,17 @@ title: Assignment 2: Literature Review
 
 # Assignment 2
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RG-weArvc78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Example Literature Reviews from Lecture:
+
+- Haberstock, Lauren. "Participatory description: decolonizing descriptive methodologies in archives." Archival Science 20, no. 2 (2020): 125-138.
+- Poole, A. H. (2020). The information work of community archives: a systematic literature review. Journal of Documentation.
+- Hechavarria, L. M. S. (2017). E-inclusion and public libraries: A literature review. Qualitative and Quantitative Methods in Libraries, 111-127.
+
+
+
+
 ## Literature Review
 Before we begin to conduct research about a topic we need to know, at minimum, two things:
 
