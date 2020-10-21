@@ -9,9 +9,11 @@ video:
 ---
 
 
-
 **Week 4 - Research Design**: The ability to meaningfully select research topics, pose research questions, sample populations, and securely manage data are part of the research design process. Throughout Week 4 we will work through the different elements of a research project's design.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wF8bv21Dd2k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The slides for this week’s lecture can be found [here](https://github.com/nniiicc/LIS-570-Au2020/blob/master/slides/ResearchDesign-Slides.pdf)
 
 ## Readings
 Read the introduction, and then choose two types of research designs to read about (for clarity - each type is a method): USC LibGuide on Designing Research Projects - [HTML](https://libguides.usc.edu/writingguide/researchdesigns)
