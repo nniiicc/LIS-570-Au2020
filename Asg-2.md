@@ -41,7 +41,7 @@ When you have identified the set of literature that will be used for your review
 - Any limitations of these studies (individually or as a whole)
 - What knowledge gaps or research opportunities have been identified by reviewing this literature
 
-The Literature Review draft is due October 30th. The draft should be approximately 2 pages single spaced (1100 words not including citations). Please cite all work using APA format.
+The Literature Review draft is due October 30th. If you are working in a group, the draft should be approximately 2 pages single spaced (1100 words not including citations). If you work individually, the draft should be 550-750 words. Please cite all work using APA format.
 
 Tips on writing a strong literature review:
 - Be sure to include 1-2 sentences at the beginning of your literature review which explains the topic that is being reviewed.
