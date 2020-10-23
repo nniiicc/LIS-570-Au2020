@@ -22,13 +22,13 @@ Lopatovska, I., Rink, K., Knight, I., Raines, K., Cosenza, K., Williams, H., ...
 
 **Suggested**
 
-Costello, L., McDermott, M.-L., & Wallace, R. (2017). Netnography: Range of Practices, Misperceptions, and Missed Opportunities. International Journal of Qualitative Methods, 16(1), 1609406917700647. https://doi.org/10.1177/1609406917700647
+Costello, L., McDermott, M.-L., & Wallace, R. (2017). Netnography: Range of Practices, Misperceptions, and Missed Opportunities. International Journal of Qualitative Methods, 16(1), 1609406917700647. [Link](https://doi.org/10.1177/1609406917700647)
 
-Nowell, L. S., Norris, J. M., White, D. E., & Moules, N. J. (2017). Thematic Analysis: Striving to Meet the Trustworthiness Criteria. International Journal of Qualitative Methods, 16(1), 1609406917733847. https://doi.org/10.1177/1609406917733847
+Nowell, L. S., Norris, J. M., White, D. E., & Moules, N. J. (2017). Thematic Analysis: Striving to Meet the Trustworthiness Criteria. International Journal of Qualitative Methods, 16(1), 1609406917733847. [Link](https://doi.org/10.1177/1609406917733847)
 
-Charmaz, K., & Belgrave, L. L. (2019). Thinking About Data With Grounded Theory. Qualitative Inquiry, 25(8), 743–753. https://doi.org/10.1177/1077800418809455
+Charmaz, K., & Belgrave, L. L. (2019). Thinking About Data With Grounded Theory. Qualitative Inquiry, 25(8), 743–753. [Link](https://doi.org/10.1177/1077800418809455)
 
-Paulus, T. M., Jackson, K., & Davidson, J. (2017). Digital Tools for Qualitative Research: Disruptions and Entanglements. Qualitative Inquiry, 23(10), 751–756. https://doi.org/10.1177/1077800417731080
+Paulus, T. M., Jackson, K., & Davidson, J. (2017). Digital Tools for Qualitative Research: Disruptions and Entanglements. Qualitative Inquiry, 23(10), 751–756. [Link](https://doi.org/10.1177/1077800417731080)
 
 ## Exercise
 Forthcoming
