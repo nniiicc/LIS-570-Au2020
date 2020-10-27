@@ -81,7 +81,7 @@ The social world is a bit more complicated than simply sticking a thermometer in
 
 How we justify beliefs that we hold is by using techniques to gather or tools to collect data. These techniques and tools are called **research methods** - the title of this class. What we're going to investigate over the course of our 10 weeks together is how we justify our beliefs through the collection, analysis, and presentation of data.
 
-![conceptualfoundationsgraph](https://github.com/nniiicc/LIS-570-Au2020/blob/master/images/ConceptualFoundationGraph.jpg)
+![conceptualfoundationsgraph](https://raw.githubusercontent.com/nniiicc/LIS-570-Au2020/master/images/ConceptualFoundationGraph.jpg)
 
 
 ## TL;DR  
