@@ -10,6 +10,7 @@ video:
 
 **Week 5 + 6 - Qualitative Data Collection and Analysis**: One of the major paradigms in LIS research is the collection and analysis of data using qualitative methods. In this two week class session we will discuss data collection methods like interviews, surveys, and content analysis. We will also discuss analytic techniques such as interview coding, memo writing, and ethnographic reporting.  
 
+## Introduction
 Over the next four weeks, we will be discussing the collection and analysis of data through different research methodologies. The methodologies of LIS can be, broadly, divided into qualitative and quantitative.
 
 If you remember back in Week 1, the conceptual foundations of research, we discussed two broad paradigms of LIS: Positivism and Constructivism.
