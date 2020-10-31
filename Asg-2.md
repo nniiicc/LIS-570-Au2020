@@ -14,8 +14,6 @@ Example Literature Reviews from Lecture:
 - Hechavarria, L. M. S. (2017). E-inclusion and public libraries: A literature review. Qualitative and Quantitative Methods in Libraries, 111-127.
 
 
-
-
 ## Literature Review
 Before we begin to conduct research about a topic we need to know, at minimum, two things:
 
@@ -53,20 +51,32 @@ Tips on writing a strong literature review:
 
 ## Step 2: Peer Review
 
-We will exchange drafts of the literature review for feedback from peers. Each group (or individual) is only responsible for doing one peer review.
+We will exchange drafts of the literature review for feedback from peers. The peer review exchange is meant to update you on your colleagues work, and provide an opportunity to learn from one another based on the structure and arguments that are made in the first draft of the literature review assignment. If you like how your colleagues have organized their ideas, or how they structured their review - feel free to borrow from their example (note this is what all good researchers do- They borrow STRUCTURALLY from each other often!)
 
-The feedback of a peer review will consist of the following:
+Canvas does not handle this kind of assignment easily. So, apologies for what may seem like a convoluted process, but here are the steps for completing a peer review:  
 
-- Clarity: How well did the authors explain their research topic, and provide a meaningful argument based on the findings of previous research studies?
-- Gaps: Have the authors identified convincing gaps in the literature that suggest additional research is needed?
-- Additional literature: Based on your own very quick search of this topic in a single database recommend one additional resource that the authors should read for their review.
+1. Post your literature review somewhere on the web. You can put a draft in dropbox, you can create a Google Doc, etc.
+2. Access the Google Sheet for your section and find the row where your names (or your group of names) is listed. ([Section A Sheet](https://docs.google.com/spreadsheets/d/1uL7a-bOjOuv2xOWmIT-UF9uNjDw3PEMf5ZqVv5FinF8/edit#gid=0) or [Section B Sheet](https://docs.google.com/spreadsheets/d/1YS9v4OuY8TY2qoqjD77OvKT5NzWoyeJcdvsge6zayEc/edit#gid=0))
 
-The peer review exchange is meant to update you on your colleagues work, and provide an opportunity to learn from one another based on the structure and arguments that are made in the first draft of the literature review assignment. If you like how your colleagues have organized their ideas, or how they structured their review - feel free to borrow from their example (note this is what all good researchers do- They borrow STRUCTURALLY from each other often!)
+NOTE - Make sure you have activated the UW G Suite to ensure access to the Google Sheet. Here is a [step-by-step guide](https://itconnect.uw.edu/connect/productivity-platforms/google-productivity-platform/).
 
-Complete your peer review as a written document that answers the questions above (100-300 words). You should provide this to a group you are reviewing NO LATER THAN November 6th.
+3. In the Google Sheet add your project title and a link of your draft to be reviewed.
+4. Find and download or access the draft that you will be reviewing.
+5. Use this [template](https://docs.google.com/document/d/1Bg43C0e-8Q3Nq0BGmYKLblrqFzwMyd5VBQ6g9WgD0e0/edit?usp=sharing) and follow the instructions here to complete a short peer review.
+6. When you are finished, post your review somewhere on the web (e.g. Dropbox, Google Drive, etc) and provide a link in the same section spreadsheet above. Please complete this by **November 6th**.
+
+Your peer review will only be graded on completion (whether or not you provided a review), but this is a great chance to read your peer's work and help them out as they work on their final draft.
+
+A few things to note: This is an individual assignment. If you are working in a group, and you are assigned to review another group - EACH PERSON IN EACH GROUP SHOULD COMPLETE A PEER REVIEW.
+
+Here is an example that may help this process make more sense:
+1. Claire, Nic and Wan-Chen are working in a group. We complete our lit review draft and turn it in to Canvas to be graded.
+2. We then put our lit review in google docs, and log into the class spreadsheet to post a link to our lit review.
+3. We have been assigned to review Joe Tennis's paper. Claire, Nic and Wan-Chen each write a separate review of Joe's paper. We each post our reviews in separate google docs, and then we log back into the class spreadsheet to provide Joe links to our separate reviews.
+4. We also see that Anind has reviewed our paper - so we click his link to see his helpful and thoughtful review of our literature review draft.
+
 
 ## Step 3: Literature Review Final Draft
-
 To complete this assignment you should update your first draft based on feedback from your instructors and peers. In particular you should aim to better align the problem statement (Assignment 1) and your literature review. This means that, for example, when you are asking a set of research questions, you explain through a review of the literature why these research questions are valuable and worthy of being answered.
 
-A final draft of the literature review is due December 4th, 2020. You may turn in a final draft at any time before this date. The final draft should be approximately 3 pages single spaced (1650 words) citations not included. You must cite all literature that you consulted using APA.
+A final draft of the literature review is due December 4th, 2020. You may turn in a final draft at any time before this date. The final draft should be approximately 3 pages single spaced (1650 words) for individual papers, and 5 pages single spaced (2500) words for group papers - citations not included. You must cite all literature that you consulted using APA.
