@@ -21,7 +21,6 @@ There are three graded assignments that you will be responsible for completing o
 3.[Data Collection and Analysis Protocol](https://nniiicc.github.io/LIS-570-Au2020/Asg-3/)
 
 - Draft: November 13 (10%)
-- Peer Review: November 20 (5%)
 - Final: December 4 (20%)
 
 ## Structure of Assignments in LIS 570
@@ -30,7 +29,7 @@ Each assignment will require you to first produce a draft, and then a final comp
 
 The drafts are simply completion grades - if you turn in a document that meets all of the requirements of the draft you will receive full credit.
 
-For two of the assignments you will also be required to produce a peer review. These will require you to read a peer's assignment and provide feedback. There will be a template provided for both peer review's that you are responsible for completing.
+For the second assignment you will also be required to produce a peer review. This will require you to read a peer's assignment and provide feedback. There will be a template provided for the peer review that you are responsible for completing.
 
 The final draft of each assignment will be graded using a rubric that is included in the assignment description. You will receive written feedback about applying course concepts to your own research ideas.
 
