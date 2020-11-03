@@ -12,12 +12,12 @@ video:
 
 
 ## Readings
-Below are a number of examples that could all fit into our LIS spotlight series. But, I think each of these are examples of how to report on professional activities in peer reviewed publications using productive and helpful narrative styles. Choose just one to read for your readings this week (you likely have a few other things going on right now :) )   
 
-- Holden, J., & Roeschley, A. (2020). Privacy and Access in the Massachusetts Society for the Prevention of Cruelty to Children Records. The American Archivist, 83(1), 77-90. https://meridian.allenpress.com/american-archivist/article-abstract/83/1/77/441164/Privacy-and-Access-in-the-Massachusetts-Society?redirectedFrom=fulltext
+- Kennan, M.A. & Olsson, M.R. (2011) Writing it up: Getting your LIS research out there. Australian Academic & Research Libraries. 41 (1): 14-28  [PDF]()
 
+**LIS Spotlight**
 
+- Holden, J., & Roeschley, A. (2020). Privacy and Access in the Massachusetts Society for the Prevention of Cruelty to Children Records. The American Archivist, 83(1), 77-90. [HTML](https://meridian.allenpress.com/american-archivist/article-abstract/83/1/77/441164/Privacy-and-Access-in-the-Massachusetts-Society?redirectedFrom=fulltext)
 
-
-## Exercise
-Forthcoming
+**Recommended**
+- Rachel Gordon's ['Publish or Perish'](https://www.emeraldgrouppublishing.com/archived/librarians/writing/publish_index.htm) is focused on publishing in LIS
