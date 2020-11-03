@@ -37,4 +37,15 @@ Mixed Methods:
 - McDonald, N., Schoenebeck, S., & Forte, A. (2019). Reliability and inter-rater reliability in qualitative research: Norms and guidelines for CSCW and HCI practice. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 1-23. [PDF]() [Focused on a narrow topic (inter-rater reliability) but very helpful for coding in teams]
 
 ## Exercise
-Forthcoming
+
+The exercise this week focuses on qualitatively coding data. [This file](https://github.com/nniiicc/LIS-570-Au2020/raw/master/Exercises/qual_data_analy.pdf) contains a free response question found on a survey of 500 K-12 educators. The survey was distributed on 12.2010 in Bloomington IN at an educational conference.
+The participants, who are all teachers, are responding to the question “What major factors led you into teaching?”
+
+Here are your instructions:
+- Begin by thematically coding responses from each participant
+- After the first 30 responses, try to develop just 5 codes that categorize “factors” that led a person to pursue teaching. You made to revise these codes by lumping or splitting the codes.
+- Apply the 5 codes to 50 more responses.  
+- Continue to do this until your five codes seem stable - then give them a definition.
+- You may want to follow the conventions that we described in class for a codebook (a definition, an application, and an example)
+
+Bring your codes to class next week for discussion.
