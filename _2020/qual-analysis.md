@@ -16,10 +16,10 @@ video:
 
 **LIS Spotlights**
 
-Instead of just one LIS Spotlight this week you can choose from any of the four below -based on your interest in different methods. 
+Instead of just one LIS Spotlight this week you can choose from any of the four below -based on your interest in different methods.
 
 Interview:
-- - Zavala, J., Migoni, A. A., Caswell, M., Geraci, N., & Cifor, M. (2017). ‘A process where we’re all at the table’: community archives challenging dominant modes of archival practice. Archives and Manuscripts, 45(3), 202-215. [PDF](https://www.tandfonline.com/doi/pdf/10.1080/01576895.2017.1377088)
+- Zavala, J., Migoni, A. A., Caswell, M., Geraci, N., & Cifor, M. (2017). ‘A process where we’re all at the table’: community archives challenging dominant modes of archival practice. Archives and Manuscripts, 45(3), 202-215. [PDF](https://www.tandfonline.com/doi/pdf/10.1080/01576895.2017.1377088)
 
 Ethnography:
 - Lee, W.-C. (2019). Cataloging practices through an ethnographic lens: Workarounds, disagreements, and manifestations of culture. In Proceedings from North American Symposium of Knowledge Organization, vol. 7. (pp. 129-137). (Philadelphia, Pennsylvania). [PDF](https://journals.lib.washington.edu/index.php/nasko/article/download/15633/13015)
