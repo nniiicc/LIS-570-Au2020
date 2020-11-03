@@ -10,6 +10,9 @@ video:
 
 **Week 5 + 6 - Qualitative Data Collection and Analysis**: One of the major paradigms in LIS research is the collection and analysis of data using qualitative methods. In this two week class session we will discuss data collection methods like interviews, surveys, and content analysis. We will also discuss analytic techniques such as interview coding, memo writing, and ethnographic reporting.  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SRoVGbhxqzI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Readings
 
 - Gibbs, G. R. (2007). Thematic coding and categorizing. Analyzing qualitative data, 703, 38-56. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Coding-Qual.pdf)
