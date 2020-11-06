@@ -63,7 +63,7 @@ NOTE - Make sure you have activated the UW G Suite to ensure access to the Googl
 3. In the Google Sheet add your project title and a link of your draft to be reviewed.
 4. Find and download or access the draft that you will be reviewing.
 5. Use this [template](https://docs.google.com/document/d/1Bg43C0e-8Q3Nq0BGmYKLblrqFzwMyd5VBQ6g9WgD0e0/edit?usp=sharing) and follow the instructions here to complete a short peer review.
-6. When you are finished, post your review somewhere on the web (e.g. Dropbox, Google Drive, etc) and provide a link in the same section spreadsheet above. Please complete this by **November 6th**.
+6. When you are finished, post your review somewhere on the web (e.g. Dropbox, Google Drive, etc) and provide a link in the same section spreadsheet above. Please complete this by **November 11th**.
 
 Your peer review will only be graded on completion (whether or not you provided a review), but this is a great chance to read your peer's work and help them out as they work on their final draft.
 

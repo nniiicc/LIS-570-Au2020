@@ -28,7 +28,7 @@ For the final assignment of this class we are going to complete and IRB applicat
 - For all types of data that you will access or collect for this research: Identify whether you are obtaining the data from the subjects (or subjects’ specimens) or whether you are obtaining the data from some other source (and identify the source).
 
 ### Draft (turn in)
-You should provide answers to these in a text document (Word, PDF, etc are all fine). You do not need to cite any literature in your answers.  In fact, your answers should be as simple and concise as possible - try not to use more than 2 paragraphs for each answer, and as the instructions read, these should be answers that use "lay" or simple terminology.
+You should provide answers to these in a text document (Word, PDF, etc are all fine). You do not need to cite any literature in your answers.  In fact, your answers should be as simple and concise as possible - try not to use more than 2 paragraphs for each answer, and as the instructions read, these should be answers that use "lay" or simple terminology. The due date for this assignment is November 20th. 
 
 ## Step 2: Final Draft of Protocol
 For the final draft of this assignment you will complete an IRB application. The form can be found, as a Word document [here](https://github.com/nniiicc/LIS-570-Au2020/raw/master/APPLICATION_IRB_Protocol_v2.60_2020.08.14.docx).

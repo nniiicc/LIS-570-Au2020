@@ -15,12 +15,12 @@ There are three graded assignments that you will be responsible for completing o
 2.[Literature Review](https://nniiicc.github.io/LIS-570-Au2020/Asg-2)
 
 - Draft: October 30 (10%)
-- Peer Review: November 6  (5%)
+- Peer Review: November 11  (5%)
 - Final: December 4 (20%)
 
 3.[Data Collection and Analysis Protocol](https://nniiicc.github.io/LIS-570-Au2020/Asg-3/)
 
-- Draft: November 13 (10%)
+- Draft: November 20 (10%)
 - Final: December 4 (20%)
 
 ## Structure of Assignments in LIS 570
