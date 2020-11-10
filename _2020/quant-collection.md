@@ -10,6 +10,15 @@ video:
 
 **Week 7 + 8 - Quantitative Data Collection and Analysis**: Quantitative methods are used less in LIS but play an important role in the design of program evaluation and assessment In Weeks 7 and 8 we will briefly discuss how to collect and obtain quantitative data, and how to use descriptive and inferential statistics to pursue a hypothesis.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_q7JKHARtWU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Slides for the lecture are [here](https://github.com/nniiicc/LIS-570-Au2020/raw/master/slides/LIS-570-QuantDataCollection.pdf)
+
+There are two referenced readings in the lecture:
+- The E-book Power User in Academic and Research Libraries: Deep Log Analysis and User Customization https://doi.org/10.1080/00048623.2014.885374
+- Public library computer training for older adults to access high-quality Internet health information https://doi.org/10.1016/j.lisr.2009.03.004  
+
 ## Readings
 
 There are three choices of readings for this week - an explanation follows each of the three choices:
