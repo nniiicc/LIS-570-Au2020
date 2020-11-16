@@ -41,5 +41,3 @@ To complete the IRB application you should answer ONLY the questions that are ci
 Turn in the completed Word document. Be sure to save your document using a new file name.  
 
 **Note**: Once you are done with this application the only thing you need is a faculty sponsor who can help you submit the application to UW's IRB. (Hey - Your professor is a faculty sponsor ask him) Once it is approved you are ready to collect, analyze, and publish data about your research! Welcome to the beautiful world of professional research!  
-
-Further directions for this assignment turn-in are forthcoming.
