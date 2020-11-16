@@ -11,12 +11,14 @@ video:
 
 **Week 7 + 8 - Quantitative Data Collection and Analysis**: Quantitative methods are used less in LIS but play an important role in the design of program evaluation and assessment In Weeks 7 and 8 we will briefly discuss how to collect and obtain quantitative data, and how to use descriptive and inferential statistics to pursue a hypothesis.
 
+https://docs.google.com/presentation/d/1rkWbn26W0s8R1VeZ_sgDTIGf5eBrCtVx35ZJQ7NvIko/edit#slide=id.g7430da5d91_0_44
+
 ## Readings
 You have two choices this week for readings - the first is primarily an overview of descriptive statistics, and the second is further reading in a book about quantitative methods.
 
 - Doucette, L. (2017). Quantitative Methods and Inferential Statistics: Capacity and Development for Librarians. Evidence Based Library and Information Practice, 12(2), 53-58. [PDF](https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/28873/21388)
 
-- Blaikie, N. (2003). Analyzing quantitative data: From description to explanation. Sage. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Week6/Professor%20Norman%20Blaikie%20-%20Analyzing%20Quantitative%20Data_%20From%20Description%20to%20Explanation%20(2003)(1).pdf) Continue to read Ch 1 from pages 28-36 - this covers analysis and logic of quantiative data, and also nicely summarizes the main points of the entire first chapter.
+- Blaikie, N. (2003). Analyzing quantitative data: From description to explanation. Sage. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Week6/Blaikie.pdf) Continue to read Ch 1 from pages 28-36 - this covers analysis and logic of quantiative data, and also nicely summarizes the main points of the entire first chapter.
 
 **LIS Research Spotlight**
 - Harper, C. (2018). Machine Learning and the Library or: How I Learned to Stop Worrying and Love My Robot Overlords. Code4Lib Journal, (41), 6. [HTML](https://journal.code4lib.org/articles/13671)
