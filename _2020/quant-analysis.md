@@ -13,6 +13,7 @@ video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/51jdQSZd6Yo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+The dataset described in the `standard deviation` section can be found [here](https://docs.google.com/spreadsheets/d/1PjodnhmGnfkSY8BOUTGl1zMLJDxgZ3AeOOCvp2Kk-9w/edit?usp=sharing)
 
 ## Readings
 You have two choices this week for readings - the first is primarily an overview of descriptive statistics, and the second is further reading in a book about quantitative methods.
