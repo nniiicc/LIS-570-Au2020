@@ -11,7 +11,8 @@ video:
 
 **Week 7 + 8 - Quantitative Data Collection and Analysis**: Quantitative methods are used less in LIS but play an important role in the design of program evaluation and assessment In Weeks 7 and 8 we will briefly discuss how to collect and obtain quantitative data, and how to use descriptive and inferential statistics to pursue a hypothesis.
 
-https://docs.google.com/presentation/d/1rkWbn26W0s8R1VeZ_sgDTIGf5eBrCtVx35ZJQ7NvIko/edit#slide=id.g7430da5d91_0_44
+<iframe width="560" height="315" src="https://www.youtube.com/embed/51jdQSZd6Yo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Readings
 You have two choices this week for readings - the first is primarily an overview of descriptive statistics, and the second is further reading in a book about quantitative methods.
