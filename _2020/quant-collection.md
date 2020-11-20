@@ -24,7 +24,7 @@ There are two referenced readings in the lecture:
 
 I'm going to start this week's chapter out with a question:
 
-> What is at stake, conceptually, when data are collected to make sense of the social world?
+*What is at stake, conceptually, when data are collected to make sense of the social world?*
 
 That is a hard question to answer. It cuts to the heart of many things we've been studying throughout the quarter - such as ethics, justice, beliefs, evidence, and validity. We would probably answer a question like that by saying, "Well, it depends...""
 
@@ -41,9 +41,9 @@ A positivist sees the world as having some core truths or realities that, given 
 
 Let's use a simple example to explore the process of prediction using a positivists logic:
 
-Let's say one fall afternoon you get bored and go to a horse racing track with some  friends. In advance you read up on all of the horses that will be racing. One of your ideas is that horses who were born in Virginia (a state with high annual rain fall) will race particularly well in rainy weather. Now just as you get to the track you see that it starts to lightly rain. So you look up all the horses racing that day and find one (and only one) was born and trained in Virginia. So you pick the horse "Cavalier" (the one born in Virginia) who is running in the third race.
+*One fall afternoon you get bored and go to a horse racing track with some friends. In advance you read up on all of the horses that will be racing. One of your ideas is that horses who were born in Virginia (a state with high annual rain fall) will race particularly well in rainy weather. Now just as you get to the track you see that it starts to lightly rain. So you look up all the horses racing that day and find one (and only one) was born and trained in Virginia. So you pick the horse "Cavalier" (the one born in Virginia) who is running in the third race.
 
-The third race comes around, the gun goes off, and you watch the horses speed around the track. Sure enough, Cavalier comes through in first. You exclaim "I knew it!"
+The third race comes around, the gun goes off, and you watch the horses speed around the track. Sure enough, Cavalier comes through in first. You exclaim "I knew it!"*
 
 Why should your friends believe you? Did you write down your belief and your justification? Did you place a wager on Cavalier to win? There's nothing about the event that tells anyone that you had justifiable reasons to believe that Cavalier was going to win, or even that you actually did believe that Cavalier would win.
 
