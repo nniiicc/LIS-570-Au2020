@@ -14,7 +14,7 @@ video:
 
 Slides for the lecture are [here](https://github.com/nniiicc/LIS-570-Au2020/raw/master/slides/LIS570-DesignAsMethod.pdf)
 
-Literature cites in this lecture includes:
+Literature cited in this lecture includes:
 
 - Jonassen, David H. "Toward a design theory of problem solving." Educational technology research and development 48.4 (2000): 63-85.
 - Ko, Amy (2017) Design Methods in Informatics [HTML](https://faculty.washington.edu/ajko/books/design-methods/)
