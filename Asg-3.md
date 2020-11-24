@@ -31,9 +31,15 @@ For the final assignment of this class we are going to complete and IRB applicat
 You should provide answers to these in a text document (Word, PDF, etc are all fine). You do not need to cite any literature in your answers.  In fact, your answers should be as simple and concise as possible - try not to use more than 2 paragraphs for each answer, and as the instructions read, these should be answers that use "lay" or simple terminology. The due date for this assignment is November 20th.
 
 ## Step 2: Final Draft of Protocol
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/srORT6MOgtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 For the final draft of this assignment you will complete an IRB application. The form can be found, as a Word document [here](https://github.com/nniiicc/LIS-570-Au2020/raw/master/APPLICATION_IRB_Protocol_v2.60_2020.08.14.docx).
 
-I have provided a sample of one of my own research studies for you to see what a completed IRB application looks like. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Examples/ZIPLINEstudy-GigPlat.pdf)
+I have provided a sample of one of my own research studies for you to see what a completed IRB application looks like.
+
+- [PDF of my Application](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Examples/ZIPLINEstudy-GigPlat.pdf)
+
 
 To complete the IRB application you should answer ONLY the questions that are circled in blue. Most of your answers above can be plugged in directly to the form so that much of what you have left to complete are questions about sampling and data protection.
 
