@@ -10,6 +10,10 @@ video:
 
 **Week 10 - Research Reporting**: In the final substantive week of the class we will discuss the elements of a research paper - how to publish and where to publish; how to navigate peer review; and the emergent practices of open science in LIS and beyond.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qELGC7JijwE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The spreadsheet to plan writing mentioned in lecture can be found [here](https://docs.google.com/spreadsheets/d/1jvU2BL4IstzAGxDh_GSX7_jARAmpEnGzwuPOYtUpxrQ/edit#gid=0)
+
 
 ## Readings
 
