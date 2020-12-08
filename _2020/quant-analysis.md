@@ -19,6 +19,8 @@ The dataset described in the `standard deviation` section can be found [here](ht
 
 This week we are discussing the concept of analyzing data collected using quantitative methods. In the previous lecture we discussed how the process of data collection in a quantitative studies maps on to positivist logic and uses deduction. In short, I described that when we seek to answer a research question using quantitative methods we are testing hypothesis that confirm or deny an existing generalization. This fits squarely within our deductive logic framework - moving from generalizations about the world (e.g. theories that explain why or to what extent something is true) to specific observations that confirm or deny a generalization in a new context.
 
+![](https://raw.githubusercontent.com/nniiicc/LIS-570-Au2020/master/images/inductiondeduction.jpg)
+
 Analyzing data quantitatively means that we are seeking to confirm or deny or hypothesis. To do this, we are often measuring or estimating the effect of some observation. For example, lets assume we work in a public library and are interested in circulation of materials. We could state a hypothesis like:
 
 "The circulation of ebooks was greater in 2020 than in 2019."
@@ -29,7 +31,7 @@ In this hypothesis (and the data we need to answer it) we picked out a **variabl
 
  eBook circulation is not just any kind of variable - it is a **dependent variable**. This means that the variation of ebook circulation rates will DEPEND upon some external factor - like the number of borrowers in a library, the number of ebooks that are available for check-out, the amount of time that lapses between checkouts, etc. These are all examples of **independent variables** - they occur or vary regularly and INDEPENDENT of our measurement of them. To make this point a little more concrete - a positivist doesn't believe that time is a social construct - time happens whether or not we choose to measure it. Time exists OUTSIDE of or INDEPENDENT of our measurement of it. But, something like a circulation record is very much a choice - it is a measurement that we choose to collect. When we go to analyze our data then the measurement only takes on meaning if we have another variable that it can depend upon for context. Variations in circulation don't really mean much unless we have a period of time in which we can reasonably compare one set of circulation records to another, right? So, we need both a dependent and an independent variable to meaningfully test our hypothesis.
 
-Beyond the comparison of data on simple terms - such as dependent and independent variables - we also have quantitive methods that we can use to test or report findings. In this class we'll discuss just two: 
+Beyond the comparison of data on simple terms - such as dependent and independent variables - we also have quantitive methods that we can use to test or report findings. In this class we'll discuss just two:
 
 1. **Descriptive statistics** help us describe or show patterns that emerge in our data by giving a narrow definitions of phenomena - such as the average, the most frequent, or the least frequent data points in a study. Descriptive statistics don’t allow us to make firm conclusions, or fully support rejection / acceptance of hypotheses - they just describe. Another way to say this is that they are **necessary** for understanding a phenomenon, but not **sufficient** for an explanation of the phenomenon.
 
