@@ -21,6 +21,17 @@ Literature cited in this lecture includes:
 - Kolko, J. (2010). Abductive thinking and sensemaking: The drivers of design synthesis. Design Issues, 26(1), 15-28.	 	
 - Louridas, P. (1999). Design as bricolage: anthropology meets design thinking. Design Studies, 20(6), 517-535.
 
+
+## Lecture Notes
+Design based methods are quite different than the other empirical methods we've discussed in class so far. This difference is rooted in two specific aspects of Design based research:
+
+1. Abductive Logic - Instead of using deduction or induction, a design based research study will use a form of abduction that jumps right from observation (specific) to theory (generalization). This is in service of building an artifact that can help, improve, or change some aspect of the observed population. If we take a step back and think about this practically - it makes a lot of sense. When we build something new - be it an interface, an app, or even a voting ballot - what we want, above all else, is to invoke change (or to "intervene") in the status quo. If this is our intention - we don't need to develop a broad reaching theory of the way the world works - what we need is a quick diagnosis of the problem based on observations - and a hunch about how we can accurately solve the problem with our design skills. Abduction is the logic that enables this mode of inquiry. 
+
+![](https://raw.githubusercontent.com/nniiicc/LIS-570-Au2020/master/images/Abduction.jpg)
+
+2. Commitment to Pragmatism - As we discussed in the logic of abduction - what design research is often concerned with is meaningful intervention. As such, the building up of reliable and generalizable knowledge is not as large a concern for the design-based researcher. They are more concerned with the impact and intended effect of their intervention. Another way to think about this is that social scientists are often interested in describing and predicting aspects of the social world - and designers are interested in mediating and changing aspects of the social world through purposeful intervention.  
+
+
 ## Readings
 
 - Bowler, L., & Large, A. (2008). Design-based research for LIS. Library & Information Science Research, 30(1), 39-46. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Week9/Design_based_research_for_LIS.pdf)
