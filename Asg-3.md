@@ -47,3 +47,41 @@ To complete the IRB application you should answer ONLY the questions that are ci
 Turn in the completed Word document. Be sure to save your document using a new file name.  
 
 **Note**: Once you are done with this application the only thing you need is a faculty sponsor who can help you submit the application to UW's IRB. (Hey - Your professor is a faculty sponsor ask him) Once it is approved you are ready to collect, analyze, and publish data about your research! Welcome to the beautiful world of professional research!  
+
+### Final Grading Rubric
+
+**Completion of IRB application (2 pts)**
+
+Answers are given to all required questions--the ones with their numbers circled--on the IRB application.
+
+**Participants (3 pts)**
+
+Describe relevant characteristics of the subjects of your research, and the criteria which will be used include/exclude possible participants. If you are working with human subjects, explain which aspects of your participants’ identities are relevant to your research. If you are working with documents or other non-human objects, describe the documentary materials that you will use in your work.
+- Characteristics of the subjects (relevant participants’ identities/the documentary materials) (1 pt)
+- Inclusion criteria (1 pt)
+- Exclusion criteria (1pt)
+
+**Research setting (3 pts)**
+
+Justify the site selection. If applicable, describe the local context that may affect your research. If you are working with human subjects, describe how you will obtain and manage consent from your participants.
+- Justify the site selection. (1 pt)
+- Describe how to obtain and manage consent. (2 pts)
+
+Please note: The IRB form states that Section 3 is completed only if investigators will conduct research procedures outside of UW and Harborview. For the purposes of this assignment, all circled questions in this section should be completed.
+
+**Recruiting and screening participants (3 pts)**
+
+Describe how subjects will be identified (1 pt), recruited (1 pt), and screened (1 pt).
+
+**Procedures (5 pts)**
+
+Provide a complete description of the study procedure in lay language. (3 pts)
+Explain the data that will be collected. (2 pts)
+
+**Privacy and Confidentiality (2 pts)**
+
+Describe the plan to address possible privacy concerns of subjects.
+
+**Risk Benefit Assessment (2 points)**
+
+Describe the risks of harm (1 pt) and anticipated benefits (1 pt) to the participants of the research procedures.
