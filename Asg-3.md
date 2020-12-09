@@ -48,7 +48,8 @@ Turn in the completed Word document. Be sure to save your document using a new f
 
 **Note**: Once you are done with this application the only thing you need is a faculty sponsor who can help you submit the application to UW's IRB. (Hey - Your professor is a faculty sponsor ask him) Once it is approved you are ready to collect, analyze, and publish data about your research! Welcome to the beautiful world of professional research!  
 
-### Final Grading Rubric
+## Final Grading Rubric
+Below is a description for how your final assignment will be graded. If you have questions please contact your TA. 
 
 **Completion of IRB application (2 pts)**
 
